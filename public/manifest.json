@@ -1,16 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ntechzy",
+  "name": "Ntechzy App",
   "icons": [
     {
-      "src": "ntechzy_logo.png",
-      "sizes": "image/png",
+      "src": "ntechzy_logo.jpg",
+      "sizes": "image/jpg",
       "type": "192x192"
-    },
-    {
-      "src": "ntechzy_logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
     }
   ],
   "start_url": ".",
